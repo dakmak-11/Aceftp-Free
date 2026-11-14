@@ -191,4 +191,4 @@ This repository serves as the official landing page for AceFTP. The software is 
 **Get the most recent version of AceFTP today!**
 
 ---
-**Last updated:** 2026-11-13 20:11:06 UTC
+**Last updated:** 2026-11-14 01:08:32 UTC
